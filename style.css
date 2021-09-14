@@ -76,6 +76,8 @@ p {
   background-position: center center;
   background-repeat: no-repear;
   background-size: cover;
+  background-image: url(./images/header-img2.png);
+  
 }
 .banner {
   display: flex;
@@ -326,8 +328,4 @@ p {
     background-color: red;
     margin-left: 5px;
 
-}
- img {
-  width:100%;
-  height: 900px;
 }
