@@ -1,0 +1,39 @@
+body {
+    background: #6bbf59;
+    background: linear-gradient(to right, #137547, #2bc016);
+    
+  }
+  
+  .card-img-left {
+    width: 45%;
+    background: scroll center url('https://images.unsplash.com/photo-1561407958-54aa9fa49a21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80');
+    background-size: cover;
+    
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    font-weight: bold;
+    border-radius: 100px 100px 100px 100px;
+    background-color: #2bc016;
+  }
+  
+  .btn-google {
+    color: white !important;
+    background-color: #ea4335;
+    font-weight: bold;
+    border-radius: 100px 100px 100px 100px;
+  }
+  
+  .btn-facebook {
+    color: white !important;
+    background-color: #3b5998;
+    font-weight: bold;
+    border-radius: 100px 100px 100px 100px;
+  }
+  .form-control {
+    border-color: #2bc016;
+    border-radius: 100px 100px 100px 100px;
+  }
